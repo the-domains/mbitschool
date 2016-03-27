@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[mbitschool]]></title>
+        <description><![CDATA[mbitschool]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 27 Mar 2016 17:11:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Madrid Business Intelligence Technology</p>]]></description>
+            <link>undefined0380642d-4fbc-43c7-85a6-5dc8df0c2ad6/index.html</link>
+            <guid isPermaLink="false">0380642d-4fbc-43c7-85a6-5dc8df0c2ad6</guid>
+            <pubDate>Sun, 27 Mar 2016 17:11:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

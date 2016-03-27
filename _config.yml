@@ -1,0 +1,28 @@
+name: mbitschool
+favicon: null
+layout_spectrum: 0.3108941656537354
+typography_spectrum: 0.47735759313218296
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8134365037549287
+  lightness: 0.2884020621422678
+  saturation: 0.91555963200517
+  rhythmicContrast: 0.5875763213261962
+purpose: []

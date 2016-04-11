@@ -1,7 +1,7 @@
 name: mbit school
 favicon: null
-layout_spectrum: 0.74236
-typography_spectrum: 0.25447
+layout_spectrum: 0.24444
+typography_spectrum: 0.40183
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#000000'
     - '#9f9f9f'
     - '#373737'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 1
   saturation: 1
-  rhythmicContrast: 0.75
+  rhythmicContrast: 1
 purpose: []
